@@ -1,0 +1,8 @@
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\bin\Debug\Mod4Constructor.exe.config
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\bin\Debug\Mod4Constructor.exe
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\bin\Debug\Mod4Constructor.pdb
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\obj\Debug\Mod4Constructor.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\obj\Debug\Mod4Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\obj\Debug\Mod4Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\obj\Debug\Mod4Constructor.exe
+C:\Users\Marcus\source\repos\Mod4Constructor\Mod4Constructor\obj\Debug\Mod4Constructor.pdb
